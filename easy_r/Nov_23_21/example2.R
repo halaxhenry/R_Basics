@@ -5,5 +5,5 @@
 fruit_sell = data.frame(제품, 가격, 판매량)
 fruit_sell
 
-mean(fruit_sell$제품)
+mean(fruit_sell$가격)
 mean(fruit_sell$판매량)
